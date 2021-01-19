@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Тут был Даник</h1>
+    <h1>Danik was here</h1>
   </div>
 </template>
 
